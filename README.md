@@ -14,12 +14,12 @@ The Low-Rank Hadamard Product (LoHa) approach bears resemblance to LoRA, but it 
 
 ## Libraries used
 
-- peft: for model pruning and quantization
-- transformers: transformers: For utilizing and fine-tuning the model.
-- datasets: For handling and processing the data.
-- numpy: For numerical computations.
-- torch: For building and training neural networks.
-- torchvision: used in PyTorch-based projects for computer vision tasks due to its comprehensive collection of utilities and pre-trained models, as well as its seamless integration with PyTorch
+- **peft:** for model pruning and quantization
+- **transformers:** transformers: For utilizing and fine-tuning the model.
+- **datasets:** For handling and processing the data.
+- **numpy:** For numerical computations.
+- **torch:** For building and training neural networks.
+- **torchvision:** used in PyTorch-based projects for computer vision tasks due to its comprehensive collection of utilities and pre-trained models, as well as its seamless integration with PyTorch
 
 ## Hyperparameters
 
